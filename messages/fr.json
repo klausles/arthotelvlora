@@ -1,0 +1,170 @@
+{
+  "meta": {
+    "title": "Art Hotel Vlora — Hôtel Boutique sur la Riviera Albanaise",
+    "description": "Hôtel boutique moderne à Vlorë, Albanie. Vue mer, chambres élégantes et hospitalité chaleureuse. Réservez directement via WhatsApp et économisez 10%."
+  },
+  "nav": {
+    "home": "Accueil",
+    "rooms": "Chambres",
+    "gallery": "Galerie",
+    "location": "Emplacement",
+    "contact": "Contact",
+    "bookNow": "Réserver",
+    "experiences": "Experiences"
+  },
+  "hero": {
+    "subtitle": "Hôtel Boutique sur la Riviera Albanaise",
+    "heading": "Là où l'Élégance Moderne Rencontre la Mer",
+    "description": "Découvrez la beauté de Vlorë depuis notre hôtel boutique nouvellement conçu. Vues imprenables sur la mer, confort contemporain et hospitalité albanaise authentique.",
+    "bookDirect": "Réservez directement — Économisez 10%",
+    "exploreRooms": "Découvrir nos chambres"
+  },
+  "discount": {
+    "badge": "Économisez 10%",
+    "title": "Réservez directement via WhatsApp",
+    "description": "Évitez les frais de réservation. Contactez-nous directement sur WhatsApp et profitez d'une remise exclusive de 10%.",
+    "cta": "Écrivez-nous sur WhatsApp"
+  },
+  "rooms": {
+    "title": "Nos Chambres",
+    "subtitle": "10 chambres élégamment conçues avec équipements modernes et vue mer",
+    "perNight": "/ nuit",
+    "guests": "personnes",
+    "bookWhatsapp": "Réserver via WhatsApp — Économisez 10%",
+    "bookBooking": "Réserver sur Booking.com",
+    "amenities": {
+      "wifi": "WiFi gratuit",
+      "ac": "Climatisation",
+      "tv": "Smart TV",
+      "minibar": "Minibar",
+      "balcony": "Balcon",
+      "seaView": "Vue mer",
+      "safe": "Coffre-fort",
+      "bathroom": "Salle de bain privée"
+    },
+    "types": {
+      "standardDouble": {
+        "name": "Standard Double",
+        "description": "Chambre double confortable avec mobilier moderne et vue ville ou vue mer partielle."
+      },
+      "standardTwin": {
+        "name": "Standard Twin",
+        "description": "Chambre twin spacieuse avec deux lits simples, idéale pour les amis ou collègues en voyage."
+      },
+      "deluxeDouble": {
+        "name": "Deluxe Double",
+        "description": "Chambre double premium avec équipements supérieurs, balcon et vue mer panoramique."
+      },
+      "deluxeTriple": {
+        "name": "Deluxe Triple",
+        "description": "Chambre spacieuse avec couchage flexible pour 3 personnes maximum. Avec balcon privé vue mer."
+      },
+      "deluxeFamily": {
+        "name": "Deluxe Family Suite",
+        "description": "Notre plus grande chambre, parfaite pour les familles. Agencement spacieux avec espaces nuit séparés et balcon vue mer."
+      }
+    }
+  },
+  "gallery": {
+    "title": "Galerie",
+    "subtitle": "Découvrez la beauté de l'Art Hotel Vlora et de la Riviera Albanaise",
+    "categories": {
+      "all": "Toutes",
+      "rooms": "Chambres",
+      "views": "Panoramas",
+      "hotel": "Hôtel",
+      "area": "Vlorë"
+    }
+  },
+  "location": {
+    "title": "Emplacement",
+    "subtitle": "Idéalement situé sur la Riviera Albanaise",
+    "address": "Vlorë, Albanie",
+    "howToGetHere": "Comment nous rejoindre",
+    "fromAirport": "Depuis l'aéroport de Tirana (TIA)",
+    "fromAirportDesc": "Environ 2h30 de route vers le sud via l'autoroute SH8. Transferts aéroport disponibles sur demande.",
+    "fromBus": "Depuis la gare routière de Vlorë",
+    "fromBusDesc": "Seulement 10 minutes en taxi ou une agréable promenade de 20 minutes le long du front de mer.",
+    "nearby": "À proximité",
+    "attractions": {
+      "beach": "Plage de Vlorë — 2 min à pied",
+      "promenade": "Promenade Lungomare — 5 min à pied",
+      "oldTown": "Vieille ville et Bazar — 10 min à pied",
+      "museum": "Musée de l'Indépendance — 15 min à pied",
+      "karaburun": "Péninsule de Karaburun — 30 min en bateau"
+    }
+  },
+  "contact": {
+    "title": "Contactez-nous",
+    "subtitle": "Nous serions ravis de vous entendre",
+    "form": {
+      "name": "Votre nom",
+      "email": "Adresse e-mail",
+      "checkIn": "Date d'arrivée",
+      "checkOut": "Date de départ",
+      "message": "Votre message",
+      "send": "Envoyer le message",
+      "namePlaceholder": "Jean Dupont",
+      "emailPlaceholder": "jean@example.com",
+      "messagePlaceholder": "Parlez-nous de votre séjour..."
+    },
+    "info": {
+      "title": "Informations hôtel",
+      "address": "Vlorë, Albanie",
+      "phone": "+355 69 XXX XXXX",
+      "email": "info@arthotelvlora.com",
+      "whatsapp": "Discuter sur WhatsApp"
+    },
+    "hours": {
+      "title": "Heures de réception",
+      "description": "Notre réception est disponible 24h/24, 7j/7."
+    }
+  },
+  "footer": {
+    "description": "Un hôtel boutique moderne sur la Riviera Albanaise, offrant des chambres élégantes avec une vue mer imprenable.",
+    "quickLinks": "Liens rapides",
+    "contactInfo": "Contact",
+    "followUs": "Suivez-nous",
+    "rights": "Tous droits réservés.",
+    "bookDirect": "Réservez directement via WhatsApp et économisez 10%"
+  },
+  "whatsapp": {
+    "tooltip": "Réserver via WhatsApp — Économisez 10%",
+    "message": "Bonjour ! Je souhaiterais réserver une chambre à l'Art Hotel Vlora"
+  },
+  "experiences": {
+    "title": "Experiences et Activites",
+    "subtitle": "Laissez-nous vous aider a decouvrir la Riviera Albanaise avec des reductions partenaires exclusives",
+    "cta": "Reserver via WhatsApp",
+    "dining": {
+      "title": "Reservations Gastronomiques",
+      "description": "Nous collaborons avec les meilleurs restaurants de Vlore. Laissez-nous reserver votre table a des tarifs exclusifs."
+    },
+    "items": {
+      "quad": {
+        "name": "Tours ATV / Quad",
+        "description": "Explorez le terrain sauvage autour de Vlore en ATV. Sentiers de montagne, vues panoramiques et adrenaline."
+      },
+      "boat": {
+        "name": "Excursions en Bateau",
+        "description": "Decouvrez les plages cachees, grottes et eaux cristallines de la Peninsule de Karaburun et de ile de Sazan."
+      },
+      "car": {
+        "name": "Location de Voiture",
+        "description": "Explorez la Riviera Albanaise a votre rythme. Nous organisons voitures, motos et velos."
+      },
+      "tours": {
+        "name": "Visites Guidees",
+        "description": "Visites historiques et culturelles avec des guides locaux. Decouvrez la riche histoire de Vlore."
+      },
+      "scooter": {
+        "name": "Location Scooter et Velo",
+        "description": "La meilleure facon dexplorer la ville et le littoral. Prise en charge et depot a hotel."
+      },
+      "diving": {
+        "name": "Plongee et Snorkeling",
+        "description": "Decouvrez le monde sous-marin de la Riviera Albanaise avec des instructeurs professionnels."
+      }
+    }
+  }
+}

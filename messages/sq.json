@@ -1,0 +1,166 @@
+{
+  "meta": {
+    "title": "Art Hotel Vlora — Hotel Butik në Rivierën Shqiptare",
+    "description": "Hotel butik modern në Vlorë, Shqipëri. Pamje deti, dhoma elegante dhe mikpritje e ngrohtë. Rezervoni direkt përmes WhatsApp dhe kurseni 10%."
+  },
+  "nav": {
+    "home": "Kryefaqja",
+    "rooms": "Dhomat",
+    "gallery": "Galeria",
+    "location": "Vendndodhja",
+    "contact": "Kontakti",
+    "experiences": "Aktivitete",
+    "bookNow": "Rezervo"
+  },
+  "hero": {
+    "subtitle": "Hotel Butik në Rivierën Shqiptare",
+    "heading": "Ku Eleganca Moderne Takon Detin",
+    "description": "Zbuloni bukurinë e Vlorës nga hoteli ynë butik i ri. Pamje mahnitëse deti, komoditet bashkëkohor dhe mikpritje autentike shqiptare.",
+    "bookDirect": "Rezervo Direkt — Kurse 10%",
+    "exploreRooms": "Shiko Dhomat Tona"
+  },
+  "discount": {
+    "badge": "Kurse 10%",
+    "title": "Rezervoni Direkt përmes WhatsApp",
+    "description": "Shmangni komisionet e rezervimit. Na shkruani drejtpërdrejt në WhatsApp dhe përfitoni zbritje ekskluzive 10%.",
+    "cta": "Na Shkruani në WhatsApp"
+  },
+  "rooms": {
+    "title": "Dhomat Tona",
+    "subtitle": "10 dhoma të dizajnuara me elegancë, me komoditete moderne dhe pamje deti",
+    "perNight": "/ natë",
+    "guests": "persona",
+    "bookWhatsapp": "Rezervo përmes WhatsApp — Kurse 10%",
+    "bookBooking": "Rezervo në Booking.com",
+    "amenities": {
+      "wifi": "WiFi Falas",
+      "ac": "Kondicionim",
+      "tv": "Smart TV",
+      "minibar": "Minibar",
+      "balcony": "Ballkon",
+      "seaView": "Pamje Deti",
+      "safe": "Kasafortë",
+      "bathroom": "Banjo Private"
+    },
+    "types": {
+      "standardDouble": {
+        "name": "Standard Dopio",
+        "description": "Dhomë e rehatshme dopio me mobilim modern dhe pamje qyteti ose pamje të pjesshme deti."
+      },
+      "standardTwin": {
+        "name": "Standard Twin",
+        "description": "Dhomë e gjerë twin me dy shtretër tekë, ideale për miq ose kolegë që udhëtojnë së bashku."
+      },
+      "deluxeDouble": {
+        "name": "Deluxe Dopio",
+        "description": "Dhomë dopio e përmirësuar me komoditete premium, ballkon dhe pamje panoramike deti."
+      },
+      "deluxeTriple": {
+        "name": "Deluxe Treshe",
+        "description": "Dhomë e gjerë me shtretër fleksibël për deri në 3 persona. Me ballkon privat me pamje deti."
+      },
+      "deluxeFamily": {
+        "name": "Deluxe Suite Familjare",
+        "description": "Dhoma jonë më e madhe, perfekte për familje. Hapësirë e gjerë me zona gjumi të ndara dhe ballkon me pamje deti."
+      }
+    }
+  },
+  "gallery": {
+    "title": "Galeria",
+    "subtitle": "Zbuloni bukurinë e Art Hotel Vlora dhe Rivierës Shqiptare",
+    "categories": {
+      "all": "Të gjitha",
+      "rooms": "Dhomat",
+      "views": "Pamjet",
+      "hotel": "Hoteli",
+      "area": "Vlora"
+    }
+  },
+  "location": {
+    "title": "Vendndodhja",
+    "subtitle": "Vendosur përsosurisht në Rivierën Shqiptare",
+    "address": "Vlorë, Shqipëri",
+    "howToGetHere": "Si të Arrini",
+    "fromAirport": "Nga Aeroporti i Tiranës (TIA)",
+    "fromAirportDesc": "Rreth 2.5 orë me makinë në jug përgjatë autostradës SH8. Transferta aeroporti në dispozicion sipas kërkesës.",
+    "fromBus": "Nga Stacioni i Autobuzëve të Vlorës",
+    "fromBusDesc": "Vetëm 10 minuta me taksi ose një shëtitje e këndshme 20-minutëshe përgjatë lungomarës.",
+    "nearby": "Aty Pranë",
+    "attractions": {
+      "beach": "Plazhi i Vlorës — 2 min në këmbë",
+      "promenade": "Lungomare — 5 min në këmbë",
+      "oldTown": "Qyteti i Vjetër & Pazari — 10 min në këmbë",
+      "museum": "Muzeu i Pavarësisë — 15 min në këmbë",
+      "karaburun": "Gadishulli i Karaburunit — 30 min me varkë"
+    }
+  },
+  "experiences": {
+    "title": "Përvoja & Aktivitete",
+    "subtitle": "Le t'ju ndihmojmë të zbuloni Rivierën Shqiptare",
+    "cta": "Rezervo përmes WhatsApp",
+    "items": {
+      "quad": {
+        "name": "Tur me ATV / Quad",
+        "description": "Eksploroni terrenin e egër rreth Vlorës me ATV. Rrugë mali, pamje panoramike dhe adrenaliné."
+      },
+      "boat": {
+        "name": "Udhëtime me Varkë",
+        "description": "Zbuloni plazhet e fshehura, shpellat dhe ujërat kristalore të Karaburunit dhe Ishullit të Sazanit."
+      },
+      "car": {
+        "name": "Makina me Qira",
+        "description": "Eksploroni Rivierën Shqiptare me ritmin tuaj. Ofrojmë makina, motorë dhe biçikleta."
+      },
+      "tours": {
+        "name": "Ture të Guiduara",
+        "description": "Turne historike dhe kulturore me guida lokale. Zbuloni historinë e pasur të Vlorës."
+      },
+      "scooter": {
+        "name": "Skuter & Biçikleta me Qira",
+        "description": "Mënyra më e mirë për të eksploruar qytetin dhe bregdetin. Marrja dhe dorëzimi në hotel."
+      },
+      "diving": {
+        "name": "Zhytje & Snorkeling",
+        "description": "Zbuloni botën nënujore të Rivierës Shqiptare me instruktorë profesionistë."
+      }
+    }
+  },
+  "contact": {
+    "title": "Na Kontaktoni",
+    "subtitle": "Do të donim të dëgjonim nga ju",
+    "form": {
+      "name": "Emri juaj",
+      "email": "Adresa e emailit",
+      "checkIn": "Data e hyrjes",
+      "checkOut": "Data e daljes",
+      "message": "Mesazhi juaj",
+      "send": "Dërgo mesazhin",
+      "namePlaceholder": "Arben Hoxha",
+      "emailPlaceholder": "arben@example.com",
+      "messagePlaceholder": "Na tregoni për qëndrimin tuaj të planifikuar..."
+    },
+    "info": {
+      "title": "Informacione mbi hotelin",
+      "address": "Vlorë, Shqipëri",
+      "phone": "+355 69 XXX XXXX",
+      "email": "info@arthotelvlora.com",
+      "whatsapp": "Bisedoni në WhatsApp"
+    },
+    "hours": {
+      "title": "Orari i recepsionit",
+      "description": "Recepsioni ynë është i disponueshëm 24/7."
+    }
+  },
+  "footer": {
+    "description": "Një hotel butik modern në Rivierën Shqiptare me dhoma elegante dhe pamje mahnitëse deti.",
+    "quickLinks": "Lidhje të Shpejta",
+    "contactInfo": "Informacione Kontakti",
+    "followUs": "Na Ndiqni",
+    "rights": "Të gjitha të drejtat e rezervuara.",
+    "bookDirect": "Rezervoni direkt përmes WhatsApp dhe kurseni 10%"
+  },
+  "whatsapp": {
+    "tooltip": "Rezervo përmes WhatsApp — Kurse 10%",
+    "message": "Përshëndetje! Do të doja të rezervoja një dhomë në Art Hotel Vlora"
+  }
+}

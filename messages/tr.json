@@ -1,0 +1,170 @@
+{
+  "meta": {
+    "title": "Art Hotel Vlora — Arnavut Rivierası'nda Butik Otel",
+    "description": "Vlora, Arnavutluk'ta modern butik otel. Deniz manzarası, zarif odalar ve sıcak misafirperverlik. WhatsApp üzerinden doğrudan rezervasyon yapın ve %10 tasarruf edin."
+  },
+  "nav": {
+    "home": "Ana Sayfa",
+    "rooms": "Odalar",
+    "gallery": "Galeri",
+    "location": "Konum",
+    "contact": "İletişim",
+    "bookNow": "Rezervasyon",
+    "experiences": "Deneyimler"
+  },
+  "hero": {
+    "subtitle": "Arnavut Rivierası'nda Butik Otel",
+    "heading": "Modern Zarafetin Denizle Buluştuğu Yer",
+    "description": "Yeni tasarlanmış butik otelimizden Vlora'nın güzelliğini keşfedin. Nefes kesen deniz manzarası, çağdaş konfor ve otantik Arnavut misafirperverliği.",
+    "bookDirect": "Doğrudan Rezervasyon — %10 Tasarruf",
+    "exploreRooms": "Odalarımızı Keşfedin"
+  },
+  "discount": {
+    "badge": "%10 Tasarruf",
+    "title": "WhatsApp Üzerinden Doğrudan Rezervasyon",
+    "description": "Rezervasyon ücretlerinden kaçının. WhatsApp üzerinden bize doğrudan yazın ve %10 özel indirimden yararlanın.",
+    "cta": "WhatsApp'tan Yazın"
+  },
+  "rooms": {
+    "title": "Odalarımız",
+    "subtitle": "Modern olanaklara ve deniz manzarasına sahip 10 zarif oda",
+    "perNight": "/ gece",
+    "guests": "misafir",
+    "bookWhatsapp": "WhatsApp ile Rezervasyon — %10 Tasarruf",
+    "bookBooking": "Booking.com'da Rezervasyon",
+    "amenities": {
+      "wifi": "Ücretsiz WiFi",
+      "ac": "Klima",
+      "tv": "Smart TV",
+      "minibar": "Minibar",
+      "balcony": "Balkon",
+      "seaView": "Deniz Manzarası",
+      "safe": "Kasa",
+      "bathroom": "Özel Banyo"
+    },
+    "types": {
+      "standardDouble": {
+        "name": "Standart Çift Kişilik",
+        "description": "Modern mobilyalara ve şehir veya kısmi deniz manzarasına sahip konforlu çift kişilik oda."
+      },
+      "standardTwin": {
+        "name": "Standart İki Yataklı",
+        "description": "İki tek kişilik yataklı geniş oda, arkadaşlar veya iş arkadaşları için ideal."
+      },
+      "deluxeDouble": {
+        "name": "Deluxe Çift Kişilik",
+        "description": "Premium olanaklara, balkona ve panoramik deniz manzarasına sahip üst düzey çift kişilik oda."
+      },
+      "deluxeTriple": {
+        "name": "Deluxe Üç Kişilik",
+        "description": "3 misafire kadar esnek yatak düzenine sahip geniş oda. Deniz manzaralı özel balkon."
+      },
+      "deluxeFamily": {
+        "name": "Deluxe Aile Süiti",
+        "description": "En büyük odamız, aileler için mükemmel. Ayrı uyku alanları ve deniz manzaralı balkon ile geniş düzen."
+      }
+    }
+  },
+  "gallery": {
+    "title": "Galeri",
+    "subtitle": "Art Hotel Vlora ve Arnavut Rivierası'nın güzelliğini keşfedin",
+    "categories": {
+      "all": "Tümü",
+      "rooms": "Odalar",
+      "views": "Manzaralar",
+      "hotel": "Otel",
+      "area": "Vlora"
+    }
+  },
+  "location": {
+    "title": "Konum",
+    "subtitle": "Arnavut Rivierası'nda mükemmel konum",
+    "address": "Vlora, Arnavutluk",
+    "howToGetHere": "Nasıl Ulaşılır",
+    "fromAirport": "Tiran Havalimanı'ndan (TIA)",
+    "fromAirportDesc": "SH8 otoyolu üzerinden güneye yaklaşık 2,5 saat sürüş. Havalimanı transferi talep üzerine mevcuttur.",
+    "fromBus": "Vlora Otobüs Terminali'nden",
+    "fromBusDesc": "Taksiyle sadece 10 dakika veya sahil boyunca keyifli bir 20 dakikalık yürüyüş.",
+    "nearby": "Yakın Çevre",
+    "attractions": {
+      "beach": "Vlora Plajı — 2 dk yürüme",
+      "promenade": "Lungomare Sahil Yolu — 5 dk yürüme",
+      "oldTown": "Eski Şehir & Çarşı — 10 dk yürüme",
+      "museum": "Bağımsızlık Müzesi — 15 dk yürüme",
+      "karaburun": "Karaburun Yarımadası — 30 dk tekne ile"
+    }
+  },
+  "contact": {
+    "title": "Bize Ulaşın",
+    "subtitle": "Sizden haber almaktan mutluluk duyarız",
+    "form": {
+      "name": "Adınız",
+      "email": "E-posta Adresi",
+      "checkIn": "Giriş Tarihi",
+      "checkOut": "Çıkış Tarihi",
+      "message": "Mesajınız",
+      "send": "Mesaj Gönder",
+      "namePlaceholder": "Ahmet Yılmaz",
+      "emailPlaceholder": "ahmet@example.com",
+      "messagePlaceholder": "Planlanan konaklamanız hakkında bilgi verin..."
+    },
+    "info": {
+      "title": "Otel Bilgileri",
+      "address": "Vlora, Arnavutluk",
+      "phone": "+355 69 XXX XXXX",
+      "email": "info@arthotelvlora.com",
+      "whatsapp": "WhatsApp Sohbet"
+    },
+    "hours": {
+      "title": "Resepsiyon Saatleri",
+      "description": "Resepsiyonumuz 7/24 hizmetinizdedir."
+    }
+  },
+  "footer": {
+    "description": "Arnavut Rivierası'nda zarif odalar ve muhteşem deniz manzarasıyla modern bir butik otel.",
+    "quickLinks": "Hızlı Bağlantılar",
+    "contactInfo": "İletişim Bilgileri",
+    "followUs": "Bizi Takip Edin",
+    "rights": "Tüm hakları saklıdır.",
+    "bookDirect": "WhatsApp üzerinden doğrudan rezervasyon yapın ve %10 tasarruf edin"
+  },
+  "whatsapp": {
+    "tooltip": "WhatsApp ile Rezervasyon — %10 Tasarruf",
+    "message": "Merhaba! Art Hotel Vlora'da bir oda rezervasyonu yapmak istiyorum"
+  },
+  "experiences": {
+    "title": "Deneyimler ve Aktiviteler",
+    "subtitle": "Ozel partner indirimlerimizle Arnavut Rivierasini kesfedin",
+    "cta": "WhatsApp ile Rezervasyon",
+    "dining": {
+      "title": "Fine Dining Rezervasyonlari",
+      "description": "Vloradaki en iyi restoranlarla calisiyoruz. Ozel fiyatlarla masanizi ayirtalim."
+    },
+    "items": {
+      "quad": {
+        "name": "ATV / Quad Turlari",
+        "description": "Vlora cevresindeki vahsi araziyi ATV ile kesfetdin. Dag yollari, panoramik manzaralar ve saf adrenalin."
+      },
+      "boat": {
+        "name": "Tekne Gezileri",
+        "description": "Karaburun Yarimadasi ve Sazan Adasinin gizli plajlarini, magaralarini ve berrak sularini kesfetdin."
+      },
+      "car": {
+        "name": "Arac Kiralama",
+        "description": "Arnavut Rivierasini kendi hizinizda kesfetdin. Araba, motosiklet ve bisiklet duzenleriz."
+      },
+      "tours": {
+        "name": "Rehberli Turlar",
+        "description": "Yerel rehberlerle tarih ve kultur turlari. Vloranin zengin tarihini kesfetdin."
+      },
+      "scooter": {
+        "name": "Scooter ve Bisiklet Kiralama",
+        "description": "Sehri ve sahil seridini kesfetmenin en iyi yolu. Otelden alim ve teslim dahil."
+      },
+      "diving": {
+        "name": "Dalis ve Snorkeling",
+        "description": "Profesyonel egitmenlerle Arnavut Rivierasinin sualti dunyasini kesfetdin."
+      }
+    }
+  }
+}

@@ -1,0 +1,170 @@
+{
+  "meta": {
+    "title": "Art Hotel Vlora — Boutique Ξενοδοχείο στην Αλβανική Ριβιέρα",
+    "description": "Μοντέρνο boutique ξενοδοχείο στην Αυλώνα, Αλβανία. Θέα στη θάλασσα, κομψά δωμάτια και ζεστή φιλοξενία. Κάντε κράτηση απευθείας μέσω WhatsApp και εξοικονομήστε 10%."
+  },
+  "nav": {
+    "home": "Αρχική",
+    "rooms": "Δωμάτια",
+    "gallery": "Γκαλερί",
+    "location": "Τοποθεσία",
+    "contact": "Επικοινωνία",
+    "bookNow": "Κράτηση",
+    "experiences": "Empeiries"
+  },
+  "hero": {
+    "subtitle": "Boutique Ξενοδοχείο στην Αλβανική Ριβιέρα",
+    "heading": "Όπου η Μοντέρνα Κομψότητα Συναντά τη Θάλασσα",
+    "description": "Ανακαλύψτε την ομορφιά της Αυλώνας από το νέο boutique ξενοδοχείο μας. Εκπληκτική θέα στη θάλασσα, σύγχρονη άνεση και αυθεντική αλβανική φιλοξενία.",
+    "bookDirect": "Απευθείας κράτηση — Εξοικονομήστε 10%",
+    "exploreRooms": "Δείτε τα δωμάτιά μας"
+  },
+  "discount": {
+    "badge": "Εξοικονομήστε 10%",
+    "title": "Κάντε κράτηση απευθείας μέσω WhatsApp",
+    "description": "Αποφύγετε τις χρεώσεις κράτησης. Επικοινωνήστε μαζί μας απευθείας στο WhatsApp και απολαύστε αποκλειστική έκπτωση 10%.",
+    "cta": "Στείλτε μας μήνυμα στο WhatsApp"
+  },
+  "rooms": {
+    "title": "Τα Δωμάτιά μας",
+    "subtitle": "10 κομψά σχεδιασμένα δωμάτια με μοντέρνες ανέσεις και θέα στη θάλασσα",
+    "perNight": "/ βράδυ",
+    "guests": "άτομα",
+    "bookWhatsapp": "Κράτηση μέσω WhatsApp — Εξοικονομήστε 10%",
+    "bookBooking": "Κράτηση στο Booking.com",
+    "amenities": {
+      "wifi": "Δωρεάν WiFi",
+      "ac": "Κλιματισμός",
+      "tv": "Smart TV",
+      "minibar": "Μίνι μπαρ",
+      "balcony": "Μπαλκόνι",
+      "seaView": "Θέα θάλασσα",
+      "safe": "Χρηματοκιβώτιο",
+      "bathroom": "Ιδιωτικό μπάνιο"
+    },
+    "types": {
+      "standardDouble": {
+        "name": "Standard Δίκλινο",
+        "description": "Άνετο δίκλινο δωμάτιο με μοντέρνα επίπλωση και θέα πόλη ή μερική θέα θάλασσα."
+      },
+      "standardTwin": {
+        "name": "Standard Twin",
+        "description": "Ευρύχωρο δωμάτιο twin με δύο μονά κρεβάτια, ιδανικό για φίλους ή συναδέλφους."
+      },
+      "deluxeDouble": {
+        "name": "Deluxe Δίκλινο",
+        "description": "Αναβαθμισμένο δίκλινο με premium ανέσεις, μπαλκόνι και πανοραμική θέα θάλασσα."
+      },
+      "deluxeTriple": {
+        "name": "Deluxe Τρίκλινο",
+        "description": "Ευρύχωρο δωμάτιο με ευέλικτη διάταξη κρεβατιών για έως 3 άτομα. Με ιδιωτικό μπαλκόνι με θέα θάλασσα."
+      },
+      "deluxeFamily": {
+        "name": "Deluxe Οικογενειακή Σουίτα",
+        "description": "Το μεγαλύτερο δωμάτιο μας, ιδανικό για οικογένειες. Ευρύχωρη διάταξη με ξεχωριστές ζώνες ύπνου και μπαλκόνι με θέα θάλασσα."
+      }
+    }
+  },
+  "gallery": {
+    "title": "Γκαλερί",
+    "subtitle": "Ανακαλύψτε την ομορφιά του Art Hotel Vlora και της Αλβανικής Ριβιέρας",
+    "categories": {
+      "all": "Όλα",
+      "rooms": "Δωμάτια",
+      "views": "Θέα",
+      "hotel": "Ξενοδοχείο",
+      "area": "Αυλώνα"
+    }
+  },
+  "location": {
+    "title": "Τοποθεσία",
+    "subtitle": "Ιδανική τοποθεσία στην Αλβανική Ριβιέρα",
+    "address": "Αυλώνα, Αλβανία",
+    "howToGetHere": "Πώς να φτάσετε",
+    "fromAirport": "Από το Αεροδρόμιο Τιράνων (TIA)",
+    "fromAirportDesc": "Περίπου 2,5 ώρες οδικώς νότια μέσω της εθνικής οδού SH8. Μεταφορές αεροδρομίου κατόπιν αιτήματος.",
+    "fromBus": "Από τον Σταθμό Λεωφορείων Αυλώνας",
+    "fromBusDesc": "Μόλις 10 λεπτά με ταξί ή ένας ευχάριστος περίπατος 20 λεπτών κατά μήκος της παραλίας.",
+    "nearby": "Κοντά",
+    "attractions": {
+      "beach": "Παραλία Αυλώνας — 2 λεπτά με τα πόδια",
+      "promenade": "Προκυμαία Lungomare — 5 λεπτά με τα πόδια",
+      "oldTown": "Παλιά Πόλη & Παζάρι — 10 λεπτά με τα πόδια",
+      "museum": "Μουσείο Ανεξαρτησίας — 15 λεπτά με τα πόδια",
+      "karaburun": "Χερσόνησος Καραμπουρούν — 30 λεπτά με σκάφος"
+    }
+  },
+  "contact": {
+    "title": "Επικοινωνήστε μαζί μας",
+    "subtitle": "Θα χαρούμε να ακούσουμε από εσάς",
+    "form": {
+      "name": "Το όνομά σας",
+      "email": "Email",
+      "checkIn": "Ημερομηνία άφιξης",
+      "checkOut": "Ημερομηνία αναχώρησης",
+      "message": "Το μήνυμά σας",
+      "send": "Αποστολή μηνύματος",
+      "namePlaceholder": "Γιώργος Παπαδόπουλος",
+      "emailPlaceholder": "giorgos@example.com",
+      "messagePlaceholder": "Πείτε μας για τη διαμονή σας..."
+    },
+    "info": {
+      "title": "Πληροφορίες ξενοδοχείου",
+      "address": "Αυλώνα, Αλβανία",
+      "phone": "+355 69 XXX XXXX",
+      "email": "info@arthotelvlora.com",
+      "whatsapp": "Συνομιλία στο WhatsApp"
+    },
+    "hours": {
+      "title": "Ώρες ρεσεψιόν",
+      "description": "Η ρεσεψιόν μας είναι διαθέσιμη 24/7."
+    }
+  },
+  "footer": {
+    "description": "Ένα μοντέρνο boutique ξενοδοχείο στην Αλβανική Ριβιέρα με κομψά δωμάτια και εκπληκτική θέα στη θάλασσα.",
+    "quickLinks": "Γρήγοροι σύνδεσμοι",
+    "contactInfo": "Στοιχεία επικοινωνίας",
+    "followUs": "Ακολουθήστε μας",
+    "rights": "Με επιφύλαξη παντός δικαιώματος.",
+    "bookDirect": "Κάντε κράτηση απευθείας μέσω WhatsApp και εξοικονομήστε 10%"
+  },
+  "whatsapp": {
+    "tooltip": "Κράτηση μέσω WhatsApp — Εξοικονομήστε 10%",
+    "message": "Γεια! Θα ήθελα να κλείσω ένα δωμάτιο στο Art Hotel Vlora"
+  },
+  "experiences": {
+    "title": "Empeiries kai Drastiriotites",
+    "subtitle": "Aste mas na sas voithisoume na anakallpsete tin Alvaniki Riviera me apoklleistikes ekptoseis",
+    "cta": "Kratisi meso WhatsApp",
+    "dining": {
+      "title": "Kratiseis Estiatorion",
+      "description": "Synergasiomaste me ta kalltera estiatioria tis Avlonas. Aste mas na kllisoume to trapezi sas se apoklleistikes times."
+    },
+    "items": {
+      "quad": {
+        "name": "Perilgiseis ATV / Quad",
+        "description": "Exerevniste to agrio edafos gyro apo tin Avlona me ATV. Oreivatika monopatia, panoramiki thea kai adrenalini."
+      },
+      "boat": {
+        "name": "Ekdromes me Varka",
+        "description": "Anakallpste krymmenes paralies, spilia kai krystallina nera tis Chersonisou Karaburun kai tou Nissiou Sazan."
+      },
+      "car": {
+        "name": "Enoikiasi Aftokinitou",
+        "description": "Exerevniste tin Alvaniki Riviera me ton diko sas rythmo. Kanonizoume aftokinita, michanakia kai podilata."
+      },
+      "tours": {
+        "name": "Xenagiseis me Odigo",
+        "description": "Istorikes kai politistikes xenagiseis me topikous odigous. Anakallpste tin pllousia istoria tis Avlonas."
+      },
+      "scooter": {
+        "name": "Enoikiasi Scooter kai Podilaton",
+        "description": "O kalliteros tropos gia na exerevnisete tin poli kai tin akti. Paralavi kai paradosi sto xenodocheio."
+      },
+      "diving": {
+        "name": "Katadysi kai Snorkeling",
+        "description": "Anakallpste ton ypovrychio kosmo tis Alvanikis Rivieras me epaggelmanties ekpaidefftes."
+      }
+    }
+  }
+}

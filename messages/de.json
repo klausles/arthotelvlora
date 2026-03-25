@@ -1,0 +1,170 @@
+{
+  "meta": {
+    "title": "Art Hotel Vlora — Boutique-Hotel an der Albanischen Riviera",
+    "description": "Modernes Boutique-Hotel in Vlora, Albanien. Meerblick, elegante Zimmer und herzliche Gastfreundschaft. Buchen Sie direkt über WhatsApp und sparen Sie 10%."
+  },
+  "nav": {
+    "home": "Startseite",
+    "rooms": "Zimmer",
+    "gallery": "Galerie",
+    "location": "Standort",
+    "contact": "Kontakt",
+    "bookNow": "Buchen",
+    "experiences": "Erlebnisse"
+  },
+  "hero": {
+    "subtitle": "Boutique-Hotel an der Albanischen Riviera",
+    "heading": "Wo Moderne Eleganz auf das Meer trifft",
+    "description": "Erleben Sie die Schönheit von Vlora in unserem neu gestalteten Boutique-Hotel. Atemberaubender Meerblick, zeitgenössischer Komfort und authentische albanische Gastfreundschaft.",
+    "bookDirect": "Direkt buchen — 10% sparen",
+    "exploreRooms": "Unsere Zimmer entdecken"
+  },
+  "discount": {
+    "badge": "10% sparen",
+    "title": "Direkt über WhatsApp buchen",
+    "description": "Vermeiden Sie Buchungsgebühren. Kontaktieren Sie uns direkt über WhatsApp und genießen Sie einen exklusiven Rabatt von 10%.",
+    "cta": "Schreiben Sie uns auf WhatsApp"
+  },
+  "rooms": {
+    "title": "Unsere Zimmer",
+    "subtitle": "10 elegant gestaltete Zimmer mit modernen Annehmlichkeiten und Meerblick",
+    "perNight": "/ Nacht",
+    "guests": "Gäste",
+    "bookWhatsapp": "Über WhatsApp buchen — 10% sparen",
+    "bookBooking": "Auf Booking.com buchen",
+    "amenities": {
+      "wifi": "Kostenloses WLAN",
+      "ac": "Klimaanlage",
+      "tv": "Smart TV",
+      "minibar": "Minibar",
+      "balcony": "Balkon",
+      "seaView": "Meerblick",
+      "safe": "Safe",
+      "bathroom": "Eigenes Badezimmer"
+    },
+    "types": {
+      "standardDouble": {
+        "name": "Standard Doppelzimmer",
+        "description": "Komfortables Doppelzimmer mit moderner Einrichtung und Stadt- oder teilweisem Meerblick."
+      },
+      "standardTwin": {
+        "name": "Standard Zweibettzimmer",
+        "description": "Geräumiges Zweibettzimmer mit zwei Einzelbetten, ideal für Freunde oder Kollegen."
+      },
+      "deluxeDouble": {
+        "name": "Deluxe Doppelzimmer",
+        "description": "Gehobenes Doppelzimmer mit Premium-Ausstattung, Balkon und Panorama-Meerblick."
+      },
+      "deluxeTriple": {
+        "name": "Deluxe Dreibettzimmer",
+        "description": "Großzügiges Zimmer mit flexibler Bettenanordnung für bis zu 3 Gäste. Mit privatem Balkon und Meerblick."
+      },
+      "deluxeFamily": {
+        "name": "Deluxe Familiensuite",
+        "description": "Unser größtes Zimmer, perfekt für Familien. Geräumiges Layout mit separaten Schlafbereichen und Balkon mit Meerblick."
+      }
+    }
+  },
+  "gallery": {
+    "title": "Galerie",
+    "subtitle": "Entdecken Sie die Schönheit des Art Hotel Vlora und der Albanischen Riviera",
+    "categories": {
+      "all": "Alle",
+      "rooms": "Zimmer",
+      "views": "Aussichten",
+      "hotel": "Hotel",
+      "area": "Vlora"
+    }
+  },
+  "location": {
+    "title": "Standort",
+    "subtitle": "Perfekt gelegen an der Albanischen Riviera",
+    "address": "Vlora, Albanien",
+    "howToGetHere": "So finden Sie uns",
+    "fromAirport": "Vom Flughafen Tirana (TIA)",
+    "fromAirportDesc": "Etwa 2,5 Stunden Fahrt südlich über die Autobahn SH8. Flughafentransfers auf Anfrage verfügbar.",
+    "fromBus": "Vom Busbahnhof Vlora",
+    "fromBusDesc": "Nur 10 Minuten mit dem Taxi oder ein angenehmer 20-minütiger Spaziergang entlang der Promenade.",
+    "nearby": "In der Nähe",
+    "attractions": {
+      "beach": "Strand von Vlora — 2 Min. zu Fuß",
+      "promenade": "Lungomare Promenade — 5 Min. zu Fuß",
+      "oldTown": "Altstadt & Basar — 10 Min. zu Fuß",
+      "museum": "Unabhängigkeitsmuseum — 15 Min. zu Fuß",
+      "karaburun": "Halbinsel Karaburun — 30 Min. per Boot"
+    }
+  },
+  "contact": {
+    "title": "Kontaktieren Sie uns",
+    "subtitle": "Wir freuen uns von Ihnen zu hören",
+    "form": {
+      "name": "Ihr Name",
+      "email": "E-Mail-Adresse",
+      "checkIn": "Anreisedatum",
+      "checkOut": "Abreisedatum",
+      "message": "Ihre Nachricht",
+      "send": "Nachricht senden",
+      "namePlaceholder": "Max Mustermann",
+      "emailPlaceholder": "max@example.com",
+      "messagePlaceholder": "Erzählen Sie uns von Ihrem geplanten Aufenthalt..."
+    },
+    "info": {
+      "title": "Hotelinformationen",
+      "address": "Vlora, Albanien",
+      "phone": "+355 69 XXX XXXX",
+      "email": "info@arthotelvlora.com",
+      "whatsapp": "Chat auf WhatsApp"
+    },
+    "hours": {
+      "title": "Rezeptionszeiten",
+      "description": "Unsere Rezeption ist rund um die Uhr für Sie da."
+    }
+  },
+  "footer": {
+    "description": "Ein modernes Boutique-Hotel an der Albanischen Riviera mit eleganten Zimmern und atemberaubendem Meerblick.",
+    "quickLinks": "Schnelllinks",
+    "contactInfo": "Kontaktinfo",
+    "followUs": "Folgen Sie uns",
+    "rights": "Alle Rechte vorbehalten.",
+    "bookDirect": "Direkt über WhatsApp buchen und 10% sparen"
+  },
+  "whatsapp": {
+    "tooltip": "Über WhatsApp buchen — 10% sparen",
+    "message": "Hallo! Ich möchte ein Zimmer im Art Hotel Vlora buchen"
+  },
+  "experiences": {
+    "title": "Erlebnisse und Aktivitaten",
+    "subtitle": "Lassen Sie uns Ihnen helfen, die Albanische Riviera mit exklusiven Partnerrabatten zu entdecken",
+    "cta": "Uber WhatsApp buchen",
+    "dining": {
+      "title": "Fine Dining Reservierungen",
+      "description": "Wir arbeiten mit den besten Restaurants in Vlora zusammen. Lassen Sie uns Ihren Tisch zu exklusiven Preisen reservieren."
+    },
+    "items": {
+      "quad": {
+        "name": "ATV / Quad Touren",
+        "description": "Erkunden Sie das wilde Gelande rund um Vlora mit dem ATV. Bergpfade, Panoramablicke und Adrenalin."
+      },
+      "boat": {
+        "name": "Bootsausfluge",
+        "description": "Entdecken Sie versteckte Strande, Hohlen und kristallklares Wasser der Halbinsel Karaburun und Insel Sazan."
+      },
+      "car": {
+        "name": "Autovermietung",
+        "description": "Erkunden Sie die Albanische Riviera in Ihrem eigenen Tempo. Wir organisieren Autos, Motorrader und Fahrrader."
+      },
+      "tours": {
+        "name": "Gefuhrte Touren",
+        "description": "Historische und kulturelle Touren mit lokalen Fuhrern. Entdecken Sie die reiche Geschichte Vloras."
+      },
+      "scooter": {
+        "name": "Roller und Fahrradverleih",
+        "description": "Die beste Art, Stadt und Kuste zu erkunden. Abholung und Ruckgabe im Hotel."
+      },
+      "diving": {
+        "name": "Tauchen und Schnorcheln",
+        "description": "Entdecken Sie die Unterwasserwelt der Albanischen Riviera mit professionellen Tauchlehrern."
+      }
+    }
+  }
+}

@@ -1,0 +1,170 @@
+{
+  "meta": {
+    "title": "Art Hotel Vlora — Hotel Boutique sulla Riviera Albanese",
+    "description": "Hotel boutique moderno a Valona, Albania. Vista mare, camere eleganti e calda ospitalità. Prenota direttamente su WhatsApp e risparmia il 10%."
+  },
+  "nav": {
+    "home": "Home",
+    "rooms": "Camere",
+    "gallery": "Galleria",
+    "location": "Posizione",
+    "contact": "Contatti",
+    "bookNow": "Prenota",
+    "experiences": "Esperienze"
+  },
+  "hero": {
+    "subtitle": "Hotel Boutique sulla Riviera Albanese",
+    "heading": "Dove l'Eleganza Moderna Incontra il Mare",
+    "description": "Scopri la bellezza di Valona dal nostro hotel boutique di nuova concezione. Viste mozzafiato sul mare, comfort contemporaneo e autentica ospitalità albanese.",
+    "bookDirect": "Prenota direttamente — Risparmia 10%",
+    "exploreRooms": "Scopri le nostre camere"
+  },
+  "discount": {
+    "badge": "Risparmia 10%",
+    "title": "Prenota direttamente su WhatsApp",
+    "description": "Evita le commissioni di prenotazione. Contattaci direttamente su WhatsApp e goditi uno sconto esclusivo del 10% sul tuo soggiorno.",
+    "cta": "Scrivici su WhatsApp"
+  },
+  "rooms": {
+    "title": "Le Nostre Camere",
+    "subtitle": "10 camere elegantemente progettate con comfort moderni e vista mare",
+    "perNight": "/ notte",
+    "guests": "ospiti",
+    "bookWhatsapp": "Prenota su WhatsApp — Risparmia 10%",
+    "bookBooking": "Prenota su Booking.com",
+    "amenities": {
+      "wifi": "WiFi gratuito",
+      "ac": "Aria condizionata",
+      "tv": "Smart TV",
+      "minibar": "Minibar",
+      "balcony": "Balcone",
+      "seaView": "Vista mare",
+      "safe": "Cassaforte",
+      "bathroom": "Bagno privato"
+    },
+    "types": {
+      "standardDouble": {
+        "name": "Standard Doppia",
+        "description": "Confortevole camera doppia con arredi moderni e vista città o vista mare parziale."
+      },
+      "standardTwin": {
+        "name": "Standard Twin",
+        "description": "Spaziosa camera twin con due letti singoli, ideale per amici o colleghi in viaggio."
+      },
+      "deluxeDouble": {
+        "name": "Deluxe Doppia",
+        "description": "Camera doppia premium con comfort superiori, balcone e vista mare panoramica."
+      },
+      "deluxeTriple": {
+        "name": "Deluxe Tripla",
+        "description": "Camera spaziosa con disposizione flessibile dei letti per massimo 3 ospiti. Con balcone privato vista mare."
+      },
+      "deluxeFamily": {
+        "name": "Deluxe Family Suite",
+        "description": "La nostra camera più grande, perfetta per le famiglie. Layout spazioso con zone notte separate e balcone vista mare."
+      }
+    }
+  },
+  "gallery": {
+    "title": "Galleria",
+    "subtitle": "Scopri la bellezza dell'Art Hotel Vlora e della Riviera Albanese",
+    "categories": {
+      "all": "Tutte",
+      "rooms": "Camere",
+      "views": "Panorami",
+      "hotel": "Hotel",
+      "area": "Valona"
+    }
+  },
+  "location": {
+    "title": "Posizione",
+    "subtitle": "Perfettamente situato sulla Riviera Albanese",
+    "address": "Valona, Albania",
+    "howToGetHere": "Come raggiungerci",
+    "fromAirport": "Dall'Aeroporto di Tirana (TIA)",
+    "fromAirportDesc": "Circa 2,5 ore di auto verso sud lungo l'autostrada SH8. Trasferimenti aeroportuali disponibili su richiesta.",
+    "fromBus": "Dalla Stazione degli Autobus di Valona",
+    "fromBusDesc": "Solo 10 minuti in taxi o una piacevole passeggiata di 20 minuti lungo il lungomare.",
+    "nearby": "Nelle vicinanze",
+    "attractions": {
+      "beach": "Spiaggia di Valona — 2 min a piedi",
+      "promenade": "Lungomare — 5 min a piedi",
+      "oldTown": "Centro storico e Bazar — 10 min a piedi",
+      "museum": "Museo dell'Indipendenza — 15 min a piedi",
+      "karaburun": "Penisola di Karaburun — 30 min in barca"
+    }
+  },
+  "contact": {
+    "title": "Contattaci",
+    "subtitle": "Saremo lieti di sentirti",
+    "form": {
+      "name": "Il tuo nome",
+      "email": "Indirizzo email",
+      "checkIn": "Data check-in",
+      "checkOut": "Data check-out",
+      "message": "Il tuo messaggio",
+      "send": "Invia messaggio",
+      "namePlaceholder": "Mario Rossi",
+      "emailPlaceholder": "mario@example.com",
+      "messagePlaceholder": "Raccontaci del tuo soggiorno..."
+    },
+    "info": {
+      "title": "Informazioni hotel",
+      "address": "Valona, Albania",
+      "phone": "+355 69 XXX XXXX",
+      "email": "info@arthotelvlora.com",
+      "whatsapp": "Chatta su WhatsApp"
+    },
+    "hours": {
+      "title": "Orari reception",
+      "description": "La nostra reception è disponibile 24/7."
+    }
+  },
+  "footer": {
+    "description": "Un moderno hotel boutique sulla Riviera Albanese, con camere eleganti e splendide viste sul mare.",
+    "quickLinks": "Link rapidi",
+    "contactInfo": "Contatti",
+    "followUs": "Seguici",
+    "rights": "Tutti i diritti riservati.",
+    "bookDirect": "Prenota direttamente su WhatsApp e risparmia il 10%"
+  },
+  "whatsapp": {
+    "tooltip": "Prenota su WhatsApp — Risparmia 10%",
+    "message": "Ciao! Vorrei prenotare una camera all'Art Hotel Vlora"
+  },
+  "experiences": {
+    "title": "Esperienze e Attivita",
+    "subtitle": "Lasciateci aiutarvi a scoprire la Riviera Albanese con sconti partner esclusivi",
+    "cta": "Prenota su WhatsApp",
+    "dining": {
+      "title": "Prenotazioni Ristoranti",
+      "description": "Collaboriamo con i migliori ristoranti di Valona. Permetteteci di prenotare il vostro tavolo a tariffe esclusive."
+    },
+    "items": {
+      "quad": {
+        "name": "Tour ATV / Quad",
+        "description": "Esplorate il terreno selvaggio intorno a Valona in ATV. Sentieri montani, viste panoramiche e pura adrenalina."
+      },
+      "boat": {
+        "name": "Gite in Barca",
+        "description": "Scoprite spiagge nascoste, grotte e acque cristalline della Penisola di Karaburun e Isola di Sazan."
+      },
+      "car": {
+        "name": "Noleggio Auto",
+        "description": "Esplorate la Riviera Albanese al vostro ritmo. Organizziamo auto, moto e biciclette."
+      },
+      "tours": {
+        "name": "Tour Guidati",
+        "description": "Tour storici e culturali con guide locali. Scoprite la ricca storia di Valona."
+      },
+      "scooter": {
+        "name": "Noleggio Scooter e Bici",
+        "description": "Il modo migliore per esplorare la citta e la costa. Ritiro e consegna in hotel."
+      },
+      "diving": {
+        "name": "Immersioni e Snorkeling",
+        "description": "Scoprite il mondo sottomarino della Riviera Albanese con istruttori professionisti."
+      }
+    }
+  }
+}
