@@ -30,7 +30,7 @@ export default function ContactPage() {
                 const whatsappMsg = encodeURIComponent(
                   `Hi! I'm ${name} (${email}).\nCheck-in: ${checkIn}\nCheck-out: ${checkOut}\n\n${message}`
                 );
-                window.open(`https://wa.me/35569XXXXXXX?text=${whatsappMsg}`, "_blank");
+                window.open(`https://wa.me/355696094960?text=${whatsappMsg}`, "_blank");
               }}
               className="space-y-5"
             >
@@ -132,7 +132,7 @@ export default function ContactPage() {
                 <div className="flex items-start gap-4">
                   <span className="text-gold text-lg shrink-0">📞</span>
                   <div>
-                    <a href="tel:+35569XXXXXXX" className="hover:text-gold transition-colors">
+                    <a href="tel:+355696094960" className="hover:text-gold transition-colors">
                       {t("info.phone")}
                     </a>
                   </div>
@@ -151,7 +151,7 @@ export default function ContactPage() {
                   <span className="text-[#25D366] text-lg shrink-0">💬</span>
                   <div>
                     <a
-                      href={`https://wa.me/35569XXXXXXX?text=${encodeURIComponent("Hi! I'd like to book a room at Art Hotel Vlora")}`}
+                      href={`https://wa.me/355696094960?text=${encodeURIComponent("Hi! I'd like to book a room at Art Hotel Vlora")}`}
                       target="_blank"
                       rel="noopener noreferrer"
                       className="text-[#25D366] font-bold hover:underline"
@@ -177,7 +177,7 @@ export default function ContactPage() {
                 Book directly via WhatsApp and enjoy an exclusive 10% discount on your stay.
               </p>
               <a
-                href={`https://wa.me/35569XXXXXXX?text=${encodeURIComponent("Hi! I'd like to book a room at Art Hotel Vlora")}`}
+                href={`https://wa.me/355696094960?text=${encodeURIComponent("Hi! I'd like to book a room at Art Hotel Vlora")}`}
                 target="_blank"
                 rel="noopener noreferrer"
                 className="inline-flex items-center gap-2 bg-[#25D366] text-white px-6 py-3 rounded-full font-bold hover:bg-[#20BD5A] transition-colors"

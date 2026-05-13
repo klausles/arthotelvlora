@@ -24,19 +24,19 @@ function HomeContent({ locale }: { locale: string }) {
     {
       key: "standardDouble",
       price: 55,
-      image: "/images/room-bedroom.png",
+      image: "/images/hotel/pro-room-3.jpg",
       guests: 2,
     },
     {
       key: "deluxeDouble",
       price: 75,
-      image: "/images/room-hallway.png",
+      image: "/images/hotel/pro-room-1.jpg",
       guests: 2,
     },
     {
       key: "deluxeFamily",
       price: 110,
-      image: "/images/room-living.png",
+      image: "/images/hotel/pro-room-2.jpg",
       guests: 4,
     },
   ];
@@ -46,8 +46,8 @@ function HomeContent({ locale }: { locale: string }) {
       {/* Hero Section */}
       <section className="relative min-h-screen flex items-center justify-center overflow-hidden">
         <Image
-          src="/images/room-living.png"
-          alt="Art Hotel Vlora Reception"
+          src="/images/hotel/pro-room-1.jpg"
+          alt="Art Hotel Vlora — Elegant Room with Mountain View"
           fill
           className="object-cover"
           priority
@@ -66,7 +66,7 @@ function HomeContent({ locale }: { locale: string }) {
           </p>
           <div className="flex flex-col sm:flex-row items-center justify-center gap-4">
             <a
-              href={`https://wa.me/35569XXXXXXX?text=${encodeURIComponent("Hi! I'd like to book a room at Art Hotel Vlora")}`}
+              href={`https://wa.me/355696094960?text=${encodeURIComponent("Hi! I'd like to book a room at Art Hotel Vlora")}`}
               target="_blank"
               rel="noopener noreferrer"
               className="bg-gold text-dark px-8 py-4 rounded-full font-bold text-lg hover:bg-gold-dark transition-colors inline-flex items-center gap-3"
@@ -105,7 +105,7 @@ function HomeContent({ locale }: { locale: string }) {
               <p className="text-white/60 max-w-lg">{d("description")}</p>
             </div>
             <a
-              href={`https://wa.me/35569XXXXXXX?text=${encodeURIComponent("Hi! I'd like to book a room at Art Hotel Vlora")}`}
+              href={`https://wa.me/355696094960?text=${encodeURIComponent("Hi! I'd like to book a room at Art Hotel Vlora")}`}
               target="_blank"
               rel="noopener noreferrer"
               className="shrink-0 bg-[#25D366] text-white px-8 py-4 rounded-full font-bold text-lg hover:bg-[#20BD5A] transition-colors inline-flex items-center gap-3"
@@ -154,7 +154,7 @@ function HomeContent({ locale }: { locale: string }) {
                       {room.guests} {r("guests")}
                     </span>
                     <a
-                      href={`https://wa.me/35569XXXXXXX?text=${encodeURIComponent(`Hi! I'd like to book the ${r(`types.${room.key}.name`)} room`)}`}
+                      href={`https://wa.me/355696094960?text=${encodeURIComponent(`Hi! I'd like to book the ${r(`types.${room.key}.name`)} room`)}`}
                       target="_blank"
                       className="text-gold text-sm font-bold hover:underline"
                     >

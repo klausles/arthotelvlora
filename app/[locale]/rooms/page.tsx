@@ -8,7 +8,7 @@ const rooms = [
     type: "standardDouble",
     price: 55,
     guests: 2,
-    image: "/images/room-bedroom.png",
+    image: "/images/hotel/pro-room-3.jpg",
     amenities: ["wifi", "ac", "tv", "bathroom", "safe"],
   },
   {
@@ -16,7 +16,7 @@ const rooms = [
     type: "standardDouble",
     price: 55,
     guests: 2,
-    image: "/images/room-bedroom.png",
+    image: "/images/hotel/room-1.jpg",
     amenities: ["wifi", "ac", "tv", "bathroom", "safe"],
   },
   {
@@ -24,7 +24,7 @@ const rooms = [
     type: "standardDouble",
     price: 55,
     guests: 2,
-    image: "/images/room-hallway.png",
+    image: "/images/hotel/room-3.jpg",
     amenities: ["wifi", "ac", "tv", "bathroom", "safe"],
   },
   {
@@ -32,7 +32,7 @@ const rooms = [
     type: "standardTwin",
     price: 55,
     guests: 2,
-    image: "/images/room-living.png",
+    image: "/images/hotel/pro-room-1.jpg",
     amenities: ["wifi", "ac", "tv", "bathroom", "safe"],
   },
   {
@@ -40,7 +40,7 @@ const rooms = [
     type: "standardTwin",
     price: 55,
     guests: 2,
-    image: "/images/room-bedroom.png",
+    image: "/images/hotel/room-7.jpg",
     amenities: ["wifi", "ac", "tv", "bathroom", "safe"],
   },
   {
@@ -48,7 +48,7 @@ const rooms = [
     type: "deluxeDouble",
     price: 75,
     guests: 2,
-    image: "/images/room-hallway.png",
+    image: "/images/hotel/pro-room-3.jpg",
     amenities: ["wifi", "ac", "tv", "minibar", "balcony", "seaView", "bathroom", "safe"],
   },
   {
@@ -56,7 +56,7 @@ const rooms = [
     type: "deluxeDouble",
     price: 75,
     guests: 2,
-    image: "/images/room-living.png",
+    image: "/images/hotel/pro-room-1.jpg",
     amenities: ["wifi", "ac", "tv", "minibar", "balcony", "seaView", "bathroom", "safe"],
   },
   {
@@ -64,7 +64,7 @@ const rooms = [
     type: "deluxeTriple",
     price: 90,
     guests: 3,
-    image: "/images/room-bedroom.png",
+    image: "/images/hotel/pro-room-2.jpg",
     amenities: ["wifi", "ac", "tv", "minibar", "balcony", "seaView", "bathroom", "safe"],
   },
   {
@@ -72,7 +72,7 @@ const rooms = [
     type: "deluxeTriple",
     price: 90,
     guests: 3,
-    image: "/images/room-hallway.png",
+    image: "/images/hotel/pro-room-4.jpg",
     amenities: ["wifi", "ac", "tv", "minibar", "balcony", "seaView", "bathroom", "safe"],
   },
   {
@@ -80,7 +80,7 @@ const rooms = [
     type: "deluxeFamily",
     price: 110,
     guests: 4,
-    image: "/images/room-living.png",
+    image: "/images/hotel/pro-room-2.jpg",
     amenities: ["wifi", "ac", "tv", "minibar", "balcony", "seaView", "bathroom", "safe"],
   },
 ];
@@ -176,7 +176,7 @@ function RoomsContent() {
                   {/* Actions */}
                   <div className="flex flex-col sm:flex-row gap-3">
                     <a
-                      href={`https://wa.me/35569XXXXXXX?text=${encodeURIComponent(`Hi! I'd like to book Room ${room.id} (${room.type}) at Art Hotel Vlora`)}`}
+                      href={`https://wa.me/355696094960?text=${encodeURIComponent(`Hi! I'd like to book Room ${room.id} (${room.type}) at Art Hotel Vlora`)}`}
                       target="_blank"
                       rel="noopener noreferrer"
                       className="flex-1 bg-gold text-dark text-center px-6 py-3 rounded-full font-bold hover:bg-gold-dark transition-colors inline-flex items-center justify-center gap-2"

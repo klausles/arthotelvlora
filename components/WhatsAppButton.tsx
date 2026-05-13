@@ -2,7 +2,7 @@
 
 import { useTranslations } from "next-intl";
 
-const WHATSAPP_NUMBER = "35569XXXXXXX";
+const WHATSAPP_NUMBER = "355696094960";
 
 export default function WhatsAppButton() {
   const t = useTranslations("whatsapp");

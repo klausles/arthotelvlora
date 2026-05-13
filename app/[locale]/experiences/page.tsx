@@ -58,7 +58,7 @@ function ExperiencesContent() {
                 {t(`items.${activity.key}.description`)}
               </p>
               <a
-                href={`https://wa.me/35569XXXXXXX?text=${encodeURIComponent(`Hi! I'm interested in ${t(`items.${activity.key}.name`)} at Art Hotel Vlora`)}`}
+                href={`https://wa.me/355696094960?text=${encodeURIComponent(`Hi! I'm interested in ${t(`items.${activity.key}.name`)} at Art Hotel Vlora`)}`}
                 target="_blank"
                 rel="noopener noreferrer"
                 className="text-gold text-sm font-bold hover:underline inline-flex items-center gap-2"
@@ -99,7 +99,7 @@ function ExperiencesContent() {
                 </div>
               </div>
               <a
-                href={`https://wa.me/35569XXXXXXX?text=${encodeURIComponent("Hi! I'd like to make a restaurant reservation through Art Hotel Vlora")}`}
+                href={`https://wa.me/355696094960?text=${encodeURIComponent("Hi! I'd like to make a restaurant reservation through Art Hotel Vlora")}`}
                 target="_blank"
                 rel="noopener noreferrer"
                 className="inline-flex items-center gap-2 bg-gold text-dark px-6 py-3 rounded-full font-bold hover:bg-gold-dark transition-colors"

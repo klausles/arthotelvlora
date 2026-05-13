@@ -96,8 +96,8 @@ function LocationContent() {
           <h3 className="text-xl font-bold mb-2">Art Hotel Vlora</h3>
           <p className="text-white/60 mb-4">{t("address")}</p>
           <div className="flex flex-col sm:flex-row items-center justify-center gap-4 text-sm">
-            <a href="tel:+35569XXXXXXX" className="text-gold hover:underline">
-              +355 69 XXX XXXX
+            <a href="tel:+355696094960" className="text-gold hover:underline">
+              +355 69 609 4960
             </a>
             <span className="hidden sm:inline text-white/20">|</span>
             <a href="mailto:info@arthotelvlora.com" className="text-gold hover:underline">
@@ -105,7 +105,7 @@ function LocationContent() {
             </a>
             <span className="hidden sm:inline text-white/20">|</span>
             <a
-              href={`https://wa.me/35569XXXXXXX?text=${encodeURIComponent("Hi! I'd like to book a room at Art Hotel Vlora")}`}
+              href={`https://wa.me/355696094960?text=${encodeURIComponent("Hi! I'd like to book a room at Art Hotel Vlora")}`}
               target="_blank"
               rel="noopener noreferrer"
               className="text-[#25D366] font-bold hover:underline"

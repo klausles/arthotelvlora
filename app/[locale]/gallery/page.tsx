@@ -5,18 +5,21 @@ import Image from "next/image";
 import { useState } from "react";
 
 const images = [
-  { src: "/images/room-bedroom.png", category: "rooms", alt: "Art Hotel Vlora — Deluxe Bedroom" },
-  { src: "/images/room-living.png", category: "hotel", alt: "Art Hotel Vlora — Reception" },
-  { src: "/images/room-hallway.png", category: "hotel", alt: "Art Hotel Vlora — Corridor" },
-  { src: "https://images.unsplash.com/photo-1507525428034-b723cf961d3e?w=800&q=80", category: "views", alt: "Beach view" },
-  { src: "https://images.unsplash.com/photo-1519046904884-53103b34b206?w=800&q=80", category: "views", alt: "Seaside panorama" },
-  { src: "https://images.unsplash.com/photo-1506929562872-bb421503ef21?w=800&q=80", category: "views", alt: "Sunset over the sea" },
-  { src: "https://images.unsplash.com/photo-1631049307264-da0ec9d70304?w=800&q=80", category: "rooms", alt: "Modern hotel room" },
-  { src: "https://images.unsplash.com/photo-1590490360182-c33d955c4644?w=800&q=80", category: "rooms", alt: "Deluxe room" },
-  { src: "https://images.unsplash.com/photo-1551882547-ff40c63fe5fa?w=800&q=80", category: "hotel", alt: "Hotel terrace" },
-  { src: "https://images.unsplash.com/photo-1580502304784-8985b7eb7260?w=800&q=80", category: "area", alt: "Vlorë cityscape" },
-  { src: "https://images.unsplash.com/photo-1564501049412-61c2a3083791?w=800&q=80", category: "area", alt: "Mediterranean architecture" },
-  { src: "https://images.unsplash.com/photo-1596394516093-501ba68a0ba6?w=800&q=80", category: "rooms", alt: "Premium suite" },
+  { src: "/images/hotel/pro-room-1.jpg", category: "rooms", alt: "Art Hotel Vlora — Deluxe Twin Room with Mountain View" },
+  { src: "/images/hotel/pro-room-2.jpg", category: "rooms", alt: "Art Hotel Vlora — Triple Room with Art Decor" },
+  { src: "/images/hotel/pro-room-3.jpg", category: "rooms", alt: "Art Hotel Vlora — Standard Double with View" },
+  { src: "/images/hotel/pro-room-4.jpg", category: "rooms", alt: "Art Hotel Vlora — Deluxe Suite Living Area" },
+  { src: "/images/hotel/room-1.jpg", category: "rooms", alt: "Art Hotel Vlora — Bedroom" },
+  { src: "/images/hotel/room-2.jpg", category: "rooms", alt: "Art Hotel Vlora — Room with Living Area" },
+  { src: "/images/hotel/room-3.jpg", category: "rooms", alt: "Art Hotel Vlora — Standard Room" },
+  { src: "/images/hotel/room-4.jpg", category: "rooms", alt: "Art Hotel Vlora — Room with Desk" },
+  { src: "/images/hotel/room-7.jpg", category: "rooms", alt: "Art Hotel Vlora — Double Room" },
+  { src: "/images/hotel/bathroom-1.jpg", category: "rooms", alt: "Art Hotel Vlora — Modern Bathroom" },
+  { src: "/images/hotel/bathroom-2.jpg", category: "rooms", alt: "Art Hotel Vlora — Bathroom with Marble" },
+  { src: "/images/hotel/hallway-1.jpg", category: "hotel", alt: "Art Hotel Vlora — Hallway" },
+  { src: "/images/hotel/hallway-2.jpg", category: "hotel", alt: "Art Hotel Vlora — Corridor" },
+  { src: "/images/hotel/hallway-3.jpg", category: "hotel", alt: "Art Hotel Vlora — Lobby Area" },
+  { src: "/images/hotel/living-1.jpg", category: "hotel", alt: "Art Hotel Vlora — Common Area" },
 ];
 
 const categories = ["all", "rooms", "views", "hotel", "area"] as const;
